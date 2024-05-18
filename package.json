@@ -1,0 +1,11 @@
+{
+  "name": "pizza-menu",
+  "version": "1.0.0",
+  "description": "ReactJS project of a pizza menu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
